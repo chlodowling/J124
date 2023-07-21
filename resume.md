@@ -20,3 +20,12 @@ Digital Marketing
 
 News and Editorial Style Writing 
 *  Published in Bare Magazine, Elle Magazine-Online, Peninsula Magazine, Southbay Magazine, The Daily Californian, The Quality Edit, Z Magazine
+
+## Work Experience
+| Employer     	                                | Job Description 	                                              |
+|-------------	                                |-----:	|
+| Pi Beta Phi                                  	| _Vice President of Inclusion_ 	                                | 
+| The Daily Californian                       	| _Staff Photogapher_                                           	| 
+| Z Magazine                                  	| _Co-Founder, Editor-in-Chief, Artistic Director_              	|  
+
+  
