@@ -4,4 +4,5 @@ Intro to Data Journalism Markdown Practice Resume
 # Chloe Dowling
 ## Experienced photographer, designer, writer, and third-year student at the University of California, Berkeley studying Media Studies with a minor in Journalism. 
 
+*Image from a .jpg file in the repo*<br/>
 !['Chloe','Chloe Headshot'](/Chloe Image.png)
